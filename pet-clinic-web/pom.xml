@@ -13,7 +13,7 @@
         <dependency>
             <groupId>name.nicholasgribanov</groupId>
             <artifactId>pet-clinic-data</artifactId>
-            <version>0.0.4-SNAPSHOT</version>
+            <version>0.0.5-SNAPSHOT</version>
         </dependency>
 
         <dependency>

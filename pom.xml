@@ -75,6 +75,6 @@
     <developerConnection>
         scm:git:https://github.com/nicholasgribanov/sfg-pet-clinic.git
     </developerConnection>
-  <tag>sfg-pet-clinic-0.0.3</tag>
+  <tag>sfg-pet-clinic-0.0.4</tag>
   </scm>
 </project>
